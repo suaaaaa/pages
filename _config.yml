@@ -1,2 +1,7 @@
 #theme: jekyll-theme-slate
 theme: jekyll-theme-leap-day
+
+utterances:
+  repo: "suaaaaa/pages"
+  issue-term: "pathname"
+  theme: "github-light"
