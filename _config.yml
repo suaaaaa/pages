@@ -1,8 +1,2 @@
 #theme: jekyll-theme-slate
-utterances:
-  enable: true
-  repo: suaaaaa/pages
-  issue-term: title
-  theme: github-dark-orange
-
 theme: jekyll-theme-leap-day
