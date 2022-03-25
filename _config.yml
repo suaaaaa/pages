@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+utterancs:
+  enable: ture
+  repo: suaaaaa/pages
+  issue-term: title
+  theme: github-dark-orange
